@@ -1,12 +1,12 @@
 # Hello :wave:, I am Jonathan 😌
 - Mechatronic Engineer 🤖
-- Master degree in Electrical Engineer :computer:
-- Cyber Security Guy :new_moon_with_face:
-- A pythonista 🐍
-- A full time Astrophile :rocket: :milky_way:
+- Computer Vision 🖥️
+- Autonomous Vehicles 🚗
+- Agro-Industry 4.0 🚜
+
 
 # About me
-I am currently pursuing my Bachelors in Computer Science Engineering from Sahyadri College of Engineering and Management, Mangalore. I love to code, watch movies and find vulnerabilities in websites.
+I'm currently pursuing my Master Degree in Electrical Engineer from University of Guanajuato. My interests are the autonomous navigation for any system with computer vision.  
 
 # Technologies used
 
