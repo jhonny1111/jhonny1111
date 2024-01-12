@@ -17,7 +17,7 @@ I'm currently pursuing my Master Degree in Electrical Engineer from University o
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://docs.opencv.org/4.x/opencv-logo-small.png"></code>
-<code><img height="40" width="40" src=""></code>
+<code><img height="40" width="40" src="http://forum.open3d.org/uploads/default/original/1X/2995429c0805dedbe3e39bef97112a010ec169b9.png"></code>
 <code><img height="40" width="40" src=""></code>
 <code><img height="40" width="40" src=""></code>
 
