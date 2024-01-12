@@ -1,5 +1,5 @@
 # Hello :wave:, I am Jonathan 😌
-- Mechatronic Engineer :sparkles:
+- Mechatronic Engineer 🤖
 - Master degree in Electrical Engineer :computer:
 - Cyber Security Guy :new_moon_with_face:
 - A pythonista 🐍
