@@ -12,7 +12,7 @@ I'm currently pursuing my Master Degree in Electrical Engineer from University o
 
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="40" width="40" src="[https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)"></code>
+<code><img height="40" width="40" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
