@@ -1,4 +1,4 @@
-# Hello :wave:, I am Jonathan 😌
+# Hello :wave:, I'm Jonathan 😌
 - Mechatronic Engineer 🤖
 - Computer Vision 🖥️
 - Autonomous Vehicles 🚗
